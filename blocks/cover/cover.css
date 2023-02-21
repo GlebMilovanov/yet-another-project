@@ -1,4 +1,4 @@
 .cover {
-  max-width: calc(100% - 96px);
+  max-width: calc(100% - 48px * 2);
   margin: 0 auto;
 }
