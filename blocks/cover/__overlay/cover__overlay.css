@@ -9,6 +9,4 @@
   transition: opacity 0.3s cubic-bezier(0.4, 0, 1, 1);
 }
 
-.cover__background:hover > .cover__overlay{
-  opacity: 0.8;
-}
+
